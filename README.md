@@ -36,6 +36,7 @@ Feature: Applicants can earn points or badges based on performance, motivating t
 
 ## Technology Stack
 JavaScript (ES6+)
+
 React.js or Angular
 Vue.js
 TypeScript
