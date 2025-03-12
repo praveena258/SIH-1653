@@ -35,7 +35,16 @@ Feature: Applicants can earn points or badges based on performance, motivating t
 
 
 ## Technology Stack
+JavaScript (ES6+)
+React.js or Angular
+Vue.js
+TypeScript
+MySQL
+MongoDB
 
 
 ## Dependencies
-
+Mapping Service & Requirements Analysis (10 days)
+Data Collection & Research (10 days)
+Backend Development (20 days)
+Budget Breakdown (Rs. 50,000)
