@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:12/03/2025
+## Register Number:212224040248
+## Name:Praveena D
 ## Problem Title
 SIH 1653: Web based Selector-Applicant Simulation Software
 ## Problem Description
@@ -29,23 +29,34 @@ Feature: Applicants can earn points or badges based on performance, motivating t
 
 
 ## Proposed Solution / Architecture Diagram
+![image](https://github.com/user-attachments/assets/a56a05e8-c314-4fa9-9f2d-e0304c78d929)
+
 
 
 ## Use Cases
+![image](https://github.com/user-attachments/assets/afd3c02a-a411-453d-965a-e28773cad71d)
+
 
 
 ## Technology Stack
 JavaScript (ES6+)
 
 React.js or Angular
+
 Vue.js
+
 TypeScript
+
 MySQL
+
 MongoDB
 
 
 ## Dependencies
 Mapping Service & Requirements Analysis (10 days)
+
 Data Collection & Research (10 days)
+
 Backend Development (20 days)
+
 Budget Breakdown (Rs. 50,000)
